@@ -1057,8 +1057,8 @@ body {
     left: 17px;
     content: "";
     position: absolute;
-    border-bottom: solid 2px red;
-    border-right: solid 2px red;
+    border-bottom: solid 2px blue;
+    border-right: solid 2px blue;
     height: 13px;
     width: 13px;
     transform: rotate(313deg);
@@ -1069,8 +1069,8 @@ body {
     left: 20px;
     content: "";
     position: absolute;
-    border-bottom: solid 2px red;
-    border-right: solid 2px red;
+    border-bottom: solid 2px blue;
+    border-right: solid 2px blue;
     height: 13px;
     width: 13px;
     transform: rotate(130deg);
