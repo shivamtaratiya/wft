@@ -959,52 +959,6 @@ body {
     opacity: 0;
 }
 
-/* .footer-menu>ul>li.active-3 a::after {
-    visibility: visible;
-    left: 50%;
-    transform: translate(-50%);
-    opacity: 1;
-} */
-
-/* .footer-menu>ul>li:hover a::after {
-    visibility: visible;
-    left: 50%;
-    opacity: 1;
-}
-
-.footer-drop-down {
-    visibility: hidden;
-    opacity: 0;
-    transition: all ease 0.4s;
-
-}
-
-.footer-drop-down ul {
-    display: block;
-    position: absolute;
-    top: 100%;
-    background-color: #231F20;
-    width: 95px;
-    height: 160px;
-}
-
-.footer-drop-down ul li {
-    padding: 2px 20px;
-}
-
-.footer-drop-down ul li a {
-    color: white;
-}
-
-.footer-drop-down ul li a:hover {
-    color: #3950A2;
-}
-
-.footer-menu>ul>li:hover .footer-drop-down {
-    visibility: visible;
-    opacity: 1;
-
-} */
 
 
 
