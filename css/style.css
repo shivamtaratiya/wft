@@ -1030,7 +1030,7 @@ body {
 }
 
 .slick-dots li.slick-active button:before {
-    background: red;
+    background: blue;
 }
 
 .fixed-header #header {
