@@ -959,14 +959,14 @@ body {
     opacity: 0;
 }
 
-.footer-menu>ul>li.active-3 a::after {
+/* .footer-menu>ul>li.active-3 a::after {
     visibility: visible;
     left: 50%;
     transform: translate(-50%);
     opacity: 1;
-}
+} */
 
-.footer-menu>ul>li:hover a::after {
+/* .footer-menu>ul>li:hover a::after {
     visibility: visible;
     left: 50%;
     opacity: 1;
@@ -1004,7 +1004,7 @@ body {
     visibility: visible;
     opacity: 1;
 
-}
+} */
 
 
 
